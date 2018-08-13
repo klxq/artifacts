@@ -1,0 +1,28 @@
+{
+  "name": "artifacts",
+  "version": "1.0.0",
+  "description": "demo for artifacts presentation",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klxq/artifacts.git"
+  },
+  "keywords": [
+    "artifact",
+    "artefact",
+    "ci",
+    "docker"
+  ],
+  "author": "klxq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klxq/artifacts/issues"
+  },
+  "homepage": "https://github.com/klxq/artifacts#readme"
+}
